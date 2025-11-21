@@ -80,7 +80,7 @@ pip install -r requirements.txt
 Converts the image dataset into `keypoint_data.csv` for MLP training.
 
 ```bash
-python data_preprocessor.py
+python data_collector.py
 # Output: keypoint_data.csv in the project root
 ```
 
